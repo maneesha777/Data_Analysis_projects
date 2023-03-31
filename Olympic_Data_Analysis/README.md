@@ -4,4 +4,4 @@ In this project we are writing SQL Queries on a real dataset from Kaggle from th
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events).
 
 ## Notes ##
-It relies on 20 SQL Queries using this data to enhance my SQL writing skills.
+This project relies on 20 SQL Queries to enhance my SQL writing skills.
